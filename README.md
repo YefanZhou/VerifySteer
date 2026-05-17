@@ -290,4 +290,4 @@ VerifySteer/
 
 ## Acknowledgements
 
-This project builds on [EasySteer](https://github.com/ZJU-REAL/EasySteer), [ProcessBench](https://github.com/QwenLM/ProcessBench) (Zheng et al., 2025), [Hard2Verify](https://arxiv.org/abs/2510.13744) (Pandit et al., 2025), [ActPRM](https://huggingface.co/datasets/Dkdkdkdk123456789/ActPRM) (Duan et al., 2025), and [vLLM](https://github.com/vllm-project/vllm).
+This project builds on [EasySteer](https://github.com/ZJU-REAL/EasySteer) (based on commit [`431e6a6`](https://github.com/ZJU-REAL/EasySteer/commit/431e6a6), [ProcessBench](https://github.com/QwenLM/ProcessBench) (Zheng et al., 2025), [Hard2Verify](https://arxiv.org/abs/2510.13744) (Pandit et al., 2025), [ActPRM](https://huggingface.co/datasets/Dkdkdkdk123456789/ActPRM) (Duan et al., 2025), and [vLLM](https://github.com/vllm-project/vllm).
