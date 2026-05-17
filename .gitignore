@@ -1,0 +1,4 @@
+*.abi3.so
+*.so
+__pycache__/
+*.pyc
